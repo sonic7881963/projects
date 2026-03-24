@@ -1,0 +1,18 @@
+{
+  "model_name": "module3_tfidf_logistic_regression",
+  "labels": {
+    "0": "comp.graphics",
+    "1": "rec.sport.baseball",
+    "2": "sci.med",
+    "3": "talk.politics.misc"
+  },
+  "test_accuracy": 0.8969210174029452,
+  "input_schema": {
+    "text": "string"
+  },
+  "output_schema": {
+    "predicted_label_id": "int",
+    "predicted_label_name": "string",
+    "class_probabilities": "object"
+  }
+}
