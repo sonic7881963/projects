@@ -1,18 +1,45 @@
-# projects
+# Software Engineering Projects
 
-这个仓库用于整理和备份个人项目，每个项目都放在独立文件夹中，方便查看、下载和继续开发。
+This repository is a curated portfolio of independent software and game-development projects. Each project is organized in its own directory to keep the codebase easy to inspect, maintain, and extend.
 
-## 项目列表
+The collection demonstrates practical SDE competencies across application structure, asset-driven development, TypeScript scripting, game logic implementation, image processing, microservice design, and maintainable project organization.
 
-- `game1`：游戏项目文件夹。
-- `imageProcessor`：图片处理相关项目。
-- `microservice`：微服务相关项目。
-- `Reversi`：黑白棋项目。
-- `TowerDefense`：塔防游戏项目。
-- `tower`：Cocos Creator 3.4.0 项目，包含塔防/关卡类游戏资源、脚本和工程配置。
-- `QuanMinZhuGong`：Cocos Creator 小游戏项目，包含角色、关卡、战斗场景、图片资源和 TypeScript 脚本。
-- `SJ2215文字人生小游戏`：文字人生小游戏素材项目，包含预览图、运气选择、初始属性和人生事件等界面资源。
+## Project Index
 
-## 说明
+| Project | Description | Engineering Focus |
+| --- | --- | --- |
+| `game1` | Game project workspace. | Gameplay implementation, project organization, iterative development. |
+| `imageProcessor` | Image processing project. | File handling, data transformation, processing pipeline design. |
+| `microservice` | Microservice-oriented project. | Backend service structure, modular design, API-oriented architecture. |
+| `Reversi` | Reversi / Othello game project. | Rule-based game logic, board-state management, algorithmic thinking. |
+| `TowerDefense` | Tower defense game project. | Real-time gameplay systems, enemy waves, defense mechanics, state management. |
+| `tower` | Cocos Creator 3.4.0 project with game assets, scripts, engine configuration, and generated resources. | TypeScript-based game scripting, Cocos Creator workflow, scene/resource management. |
+| `QuanMinZhuGong` | Cocos Creator mini-game project with characters, levels, combat scenes, image assets, and TypeScript scripts. | Level scripting, component-based game development, asset integration. |
+| `SJ2215文字人生小游戏` | Text-life mini-game asset project with preview screens, luck selection, initial attributes, and life-event UI resources. | UI asset organization, game flow design, content-driven interaction structure. |
 
-部分游戏项目包含编辑器生成的资源目录和配置文件，建议使用对应的游戏引擎或开发工具打开项目文件夹继续编辑。
+## Repository Structure
+
+Each top-level folder is treated as an independent project. This layout keeps unrelated experiments separated while still making the repository useful as a single engineering portfolio.
+
+```text
+projects/
+  game1/
+  imageProcessor/
+  microservice/
+  Reversi/
+  TowerDefense/
+  tower/
+  QuanMinZhuGong/
+  SJ2215文字人生小游戏/
+```
+
+## SDE-Relevant Highlights
+
+- Modular organization: projects are separated by responsibility and can be reviewed independently.
+- Multiple domains: the repository includes backend-oriented, image-processing, algorithmic game, and game-engine projects.
+- Practical implementation: several projects include real assets, scripts, configuration files, and engine-generated structures from working development environments.
+- Maintainability: the repository-level README provides a clear project map for reviewers, collaborators, and future development.
+
+## Notes
+
+Some game projects include editor-generated files and resource directories. For the best development experience, open Cocos Creator projects with the matching editor version listed in their project configuration.
