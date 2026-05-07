@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5834785180",
+    "project_id": "ultimatestocks-10798",
+    "storage_bucket": "ultimatestocks-10798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5834785180:android:12f70ef0eb0d0d54918859",
+        "android_client_info": {
+          "package_name": "com.example.ultimatestocks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUMdtEW5COxfrZsI75zeWgc4GduGWYZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
