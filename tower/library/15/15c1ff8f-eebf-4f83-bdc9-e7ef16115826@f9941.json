@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gyp",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 99,
+      "height": 99
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 99,
+      "height": 99
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "15c1ff8f-eebf-4f83-bdc9-e7ef16115826@6c48a",
+    "packable": true
+  }
+}

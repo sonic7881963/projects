@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fz-0",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 68,
+      "height": 68
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 68,
+      "height": 68
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e1cff0a8-95a9-40a0-b44b-14b36c215dd4@6c48a",
+    "packable": true
+  }
+}

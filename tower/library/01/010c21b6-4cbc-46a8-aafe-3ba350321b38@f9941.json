@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nlt-0",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 505,
+      "height": 14
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 505,
+      "height": 14
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "010c21b6-4cbc-46a8-aafe-3ba350321b38@6c48a",
+    "packable": true
+  }
+}

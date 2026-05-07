@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "soldier",
+    "atlas": "",
+    "rect": {
+      "x": 24,
+      "y": 96,
+      "width": 237,
+      "height": 173
+    },
+    "offset": {
+      "x": -19.5,
+      "y": -32
+    },
+    "originalSize": {
+      "width": 324,
+      "height": 301
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "3f9bd5c2-ca14-489e-9542-7b01086f24db@6c48a",
+    "packable": true
+  }
+}

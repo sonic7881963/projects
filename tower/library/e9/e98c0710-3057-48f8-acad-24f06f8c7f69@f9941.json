@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huodeUI",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 773,
+      "height": 569
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 773,
+      "height": 569
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e98c0710-3057-48f8-acad-24f06f8c7f69@6c48a",
+    "packable": true
+  }
+}

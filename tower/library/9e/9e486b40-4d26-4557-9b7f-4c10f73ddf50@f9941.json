@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jz",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 537,
+      "height": 373
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 537,
+      "height": 373
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9e486b40-4d26-4557-9b7f-4c10f73ddf50@6c48a",
+    "packable": true
+  }
+}

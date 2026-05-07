@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heroHz",
+    "atlas": "",
+    "rect": {
+      "x": 51,
+      "y": 75,
+      "width": 207,
+      "height": 198
+    },
+    "offset": {
+      "x": -3.5,
+      "y": -27
+    },
+    "originalSize": {
+      "width": 316,
+      "height": 294
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d6daa3a0-2e0a-4545-b573-6d561af5d6f0@6c48a",
+    "packable": true
+  }
+}

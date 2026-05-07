@@ -1,0 +1,30 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 1334,
+      "height": 750
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "hero"
+      },
+      {
+        "index": 2,
+        "name": "soldier"
+      },
+      {
+        "index": 3,
+        "name": "box"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 7,
+      "1": 15,
+      "2": 7,
+      "3": 2
+    }
+  }
+}

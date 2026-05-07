@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xt-1",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 64,
+      "height": 8
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 64,
+      "height": 8
+    },
+    "rotated": false,
+    "capInsets": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "texture": "68a90e10-dfd5-488a-afd7-2217d6f6151c@6c48a",
+    "packable": true
+  }
+}

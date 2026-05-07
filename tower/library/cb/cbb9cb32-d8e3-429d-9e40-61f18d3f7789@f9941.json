@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heroGy",
+    "atlas": "",
+    "rect": {
+      "x": 44,
+      "y": 66,
+      "width": 257,
+      "height": 171
+    },
+    "offset": {
+      "x": 14.5,
+      "y": -4.5
+    },
+    "originalSize": {
+      "width": 316,
+      "height": 294
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "cbb9cb32-d8e3-429d-9e40-61f18d3f7789@6c48a",
+    "packable": true
+  }
+}

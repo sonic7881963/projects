@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zsUI",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 173,
+      "height": 27
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 173,
+      "height": 27
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7baa89f5-e33c-4edb-87f6-4bd9a88e5c67@6c48a",
+    "packable": true
+  }
+}
