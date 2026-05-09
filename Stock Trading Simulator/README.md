@@ -1,71 +1,54 @@
-# Team-101-6
+# Stock Trading Simulator
 
-## Project Details
-**Title**: Ultimate Stocks <br>
-**Platform**: Android/mobile <br>
-**Description**: Practice trading stocks on our gamified stock exchange platform. 
+An Android mobile stock-trading simulation app where users can practice portfolio management in sandbox mode or compete in multiplayer trading challenges. The app is designed as a financial-literacy product: users can learn trading concepts through simulated decisions without putting real money at risk.
 
-Choose to trade stocks in **Sandbox Mode**, a single-player mode where you set your starting cash and select the types of stocks in your portfolio. With the help of AI, generate news events to see how your portfolio is affected.
+## Product Overview
 
-Alternatively, compete in **Competitions**, our multiplayer head-to-head mode. Battle against other players to achieve the highest portfolio value within the time limit. News events will periodically influence stock prices, so buying and selling at the right moments will be crucial for victory.
+Users can trade stocks in two primary modes:
+
+- **Sandbox Mode**: a single-player mode where users set starting cash, select stock categories, build a portfolio, and use AI-generated news events to see how market scenarios affect decisions.
+- **Competition Mode**: a multiplayer mode where users compete for the highest portfolio value within a time limit while news events influence stock prices.
+
+## What This Demonstrates
+
+- Android application development with Kotlin and Gradle.
+- Mobile onboarding, profile, learning, sandbox, and competition flows.
+- Portfolio and stock-trading state modeling.
+- Product thinking around simulated investing, competition, and user education.
+- Team-based software delivery with release planning and documentation.
+
+## Tech Stack
+
+Android, Kotlin, Gradle, Firebase-related configuration, Android Studio project structure.
 
 ## Screenshots
-![login](/screenshots/login.jpg)
 
-![home](/screenshots/home.jpg)
+![Login](screenshots/login.jpg)
 
-![compete](/screenshots/compete.jpg)
+![Home](screenshots/home.jpg)
 
-![learn](/screenshots/learn.jpg)
+![Competition](screenshots/compete.jpg)
 
-![profile](/screenshots/profile.jpg)
+![Learn](screenshots/learn.jpg)
 
-![sandbox](/screenshots/sandbox.jpg)
+![Profile](screenshots/profile.jpg)
 
+![Sandbox](screenshots/sandbox.jpg)
 
-## Team Number: 101-6
+## Team
 
-## Team Members
-* Bassam Ahmed (b3ahmed@uwaterloo.ca)
-* Rocky J. Luo (j89luo@uwaterloo.ca)
-* Alex Gan (a3gan@uwaterloo.ca)
-* Ishaan Puri (i4puri@uwaterloo.ca)
-* Soumik Debnath (s6debnat@uwaterloo.ca)
+Team 101-6:
 
-## Team Contract
-[Team Contract Wiki Page](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Team-Contract)
+- Bassam Ahmed
+- Rocky J. Luo
+- Alex Gan
+- Ishaan Puri
+- Soumik Debnath
 
-## Project Proposal
-[Project Proposal Wiki Page](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Project-Proposal)
+## Run Locally
 
-## Design Proposal
-[Design Proposal Wiki Page](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Design-Proposal)
+Open this folder in Android Studio and sync the Gradle project. Use an Android emulator or physical device to build and run the app.
 
-## Meeting Minutes
-[Meeting Minutes](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Meeting-Minutes)
+## Notes
 
-## User Documentation
-[User Documentation](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/User-Documentation)
-
-## Design diagrams
-[Design diagrams](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Design-diagrams)
-
-## Team reflections
-[Team Reflections](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Reflections)
-
-## Releases
-*Release 1 (Version 1.1.0)* <br>
-[Version 1.1.0 Release Wiki Page](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Version-1.1.0-Release)<br>
-[Release 1](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/releases)
-
-*Release 2* (Version 1.2.0) <br>
-[Version 1.2.0 Release Wiki page](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Version-1.2.0-Release) <br>
-[Release 2](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/releases/v1.2.0)
-
-*Release 3* (Version 1.3.0) <br>
-[Version 1.3.0 Release Wiki page](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Version-1.3.0-Release) <br>
-[Release 3](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/releases/v1.3.0)
-
-*Release 4* (Version 1.4.0) <br>
-[Version 1.4.0 Release Wiki page](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/wikis/Version-1.4.0-Release) <br>
-[Release 4](https://git.uwaterloo.ca/b3ahmed/team-101-6/-/releases/v1.4.0)
+This project came from a team-based software engineering workflow. The repository preserves project documentation links, release history, screenshots, and source structure for portfolio review.

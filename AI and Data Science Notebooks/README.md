@@ -1,27 +1,34 @@
 # AI and Data Science Notebooks
 
-This folder groups renamed Jupyter notebooks by the actual technical content inside each file. The notebooks cover applied analytics, model training, evaluation, and notebook-based communication across several AI and data science topics.
+A collection of applied AI, machine learning, and data analysis notebooks. The work spans exploratory data analysis, supervised learning, computer vision, NLP, fairness analysis, privacy-preserving ML, AutoML, and model-serving preparation.
+
+## What This Demonstrates
+
+- Building end-to-end notebook workflows from data loading to evaluation.
+- Comparing classical ML, deep learning, AutoML, and privacy-preserving approaches.
+- Communicating technical results through structured analysis, visualizations, and metrics.
+- Connecting experimentation with deployment-oriented thinking through a text classification API workflow.
 
 ## Notebook Index
 
 | Notebook | Focus |
 | --- | --- |
-| `ALY6080 Charity Data Exploratory Analysis.ipynb` | Exploratory data analysis over charity/nonprofit datasets, including data quality checks and financial/program-level summaries. |
+| `ALY6080 Charity Data Exploratory Analysis.ipynb` | Exploratory data analysis over charity/nonprofit data, including data quality checks and summary analysis. |
 | `EAI6010 MNIST Neural Network Classification.ipynb` | TensorFlow/Keras neural network workflow for MNIST digit classification. |
 | `EAI6010 CIFAR10 ResNet Image Classification.ipynb` | PyTorch and transfer-learning workflow using ResNet for CIFAR-10 image classification. |
-| `EAI6010 NLP Text Classification Models.ipynb` | Traditional NLP text classification using the 20 Newsgroups dataset, TF-IDF features, and supervised models. |
-| `EAI6010 PyTorch Auto MPG Regression.ipynb` | PyTorch regression model for predicting vehicle MPG from Auto MPG tabular data. |
-| `EAI6010 Text Classification API Microservice.ipynb` | Model packaging and FastAPI-style microservice workflow for serving a text classifier. |
-| `EAI6020 AutoGluon Breast Cancer Classification.ipynb` | AutoML classification workflow using AutoGluon and the breast cancer dataset. |
-| `EAI6400 Privacy Preserving Logistic Regression.ipynb` | Privacy-preserving machine learning prototype using homomorphic encryption and logistic regression. |
-| `EAI6400 FairFace Bias and Fairness Analysis.ipynb` | Fairness and bias analysis workflow over FairFace labels with group-level model evaluation. |
-| `SteamCharts Exploratory Data Analysis.ipynb` | Interactive EDA workflow for SteamCharts data profiling and visualization. |
-| `EAI6400 Empty M2 Assignment Notebook.ipynb` | Empty notebook preserved from the original upload because it was included in the provided files. |
+| `EAI6010 NLP Text Classification Models.ipynb` | Text classification with TF-IDF features and supervised models. |
+| `EAI6010 PyTorch Auto MPG Regression.ipynb` | PyTorch regression model for predicting vehicle MPG from tabular data. |
+| `EAI6010 Text Classification API Microservice.ipynb` | Model packaging and API-oriented workflow for serving a text classifier. |
+| `EAI6020 AutoGluon Breast Cancer Classification.ipynb` | AutoML classification workflow using AutoGluon. |
+| `EAI6400 Privacy Preserving Logistic Regression.ipynb` | Privacy-preserving logistic regression prototype. |
+| `EAI6400 FairFace Bias and Fairness Analysis.ipynb` | Group-level fairness and bias analysis over FairFace-style labels. |
+| `SteamCharts Exploratory Data Analysis.ipynb` | Exploratory analysis and visualization workflow for SteamCharts data. |
+| `EAI6400 Empty M2 Assignment Notebook.ipynb` | Empty notebook preserved from the original upload. |
 
-## SDE-Relevant Skills
+## Tech Stack
 
-- Python data analysis with pandas, NumPy, matplotlib, and seaborn.
-- Machine learning workflows with scikit-learn, TensorFlow/Keras, PyTorch, and AutoGluon.
-- Model evaluation using accuracy, precision, recall, F1, confusion matrices, and group-level fairness metrics.
-- Notebook organization and communication for reproducible technical analysis.
-- Applied deployment thinking through a model-serving microservice notebook.
+Python, Jupyter Notebook, pandas, NumPy, matplotlib, seaborn, scikit-learn, TensorFlow/Keras, PyTorch, AutoGluon, model evaluation metrics.
+
+## How To View
+
+Open the notebooks with JupyterLab, VS Code, or another `.ipynb` viewer. Some notebooks may require installing their notebook-specific dependencies before execution.
